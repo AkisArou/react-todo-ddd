@@ -1,0 +1,33 @@
+.TodoScreen {
+    text-align: center;
+}
+
+.TodoList {
+    width: 30vw;
+    margin: 3rem auto 0;
+}
+
+.TodoItem {
+    display: grid;
+    grid-template-columns: 60% 20% 20%;
+    align-items: center;
+    justify-items: start;
+    background-color: #ddd;
+    border-bottom: 1px solid #f9f9f9;
+    padding: 1rem;
+}
+
+.Error {
+    color: maroon;
+}
+
+.VisibilityButtonContainer {
+    margin: 2rem auto;
+    display: flex;
+    width: 12vw;
+    justify-content: space-between;
+}
+
+.SelectedVisibility {
+    background-color: #61dafb;
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/react-example.iml" filepath="$PROJECT_DIR$/react-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/react-todo-ddd.iml" filepath="$PROJECT_DIR$/react-todo-ddd.iml" />
     </modules>
   </component>
 </project>
